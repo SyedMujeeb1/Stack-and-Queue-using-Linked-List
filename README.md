@@ -28,6 +28,7 @@ This project implements two fundamental data structures, **Stack** and **Queue**
 
 ## **Purpose**
 This implementation demonstrates:
+
 1.The use of linked lists in building dynamic data structures.
 2.Efficient memory usage compared to array-based implementations.
 
