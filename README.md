@@ -26,5 +26,6 @@ This project implements two fundamental data structures, **Stack** and **Queue**
    git clone <repository_url>
    cd <repository_folder>
 
-
+## **LinkedIn Post**
+Check Out my LinkedIn Post https://www.linkedin.com/feed/update/urn:li:activity:7286439929541222400/
 
