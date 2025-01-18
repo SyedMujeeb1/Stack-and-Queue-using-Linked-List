@@ -26,6 +26,11 @@ This project implements two fundamental data structures, **Stack** and **Queue**
    git clone <repository_url>
    cd <repository_folder>
 
+## **Purpose**
+This implementation demonstrates:
+1.The use of linked lists in building dynamic data structures.
+2.Efficient memory usage compared to array-based implementations.
+
 ## **LinkedIn Post**
 Check Out my LinkedIn Post https://www.linkedin.com/feed/update/urn:li:activity:7286439929541222400/
 
