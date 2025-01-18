@@ -26,6 +26,31 @@ This project implements two fundamental data structures, **Stack** and **Queue**
    git clone <repository_url>
    cd <repository_folder>
 
+## **Time Complexity**
+
+Stack :
+push(data): O(1)
+
+pop(): O(1)
+
+peek(): O(1)
+
+is_empty(): O(1)
+
+display(): O(n)
+
+Queue :
+enqueue(data): O(1)
+
+dequeue(): O(1)
+
+peek(): O(1)
+
+is_empty(): O(1)
+
+display(): O(n)
+
+
 ## **Purpose**
 This implementation demonstrates:
 
