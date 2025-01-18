@@ -29,6 +29,7 @@ This project implements two fundamental data structures, **Stack** and **Queue**
 ## **Time Complexity**
 
 Stack :
+
 push(data): O(1)
 
 pop(): O(1)
@@ -40,6 +41,7 @@ is_empty(): O(1)
 display(): O(n)
 
 Queue :
+
 enqueue(data): O(1)
 
 dequeue(): O(1)
